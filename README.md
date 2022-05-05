@@ -30,10 +30,10 @@
 # Installization 🔮
 - Update your node version for replit users 
 
-- ```npm i --save-dev node@latest && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH```
+ ```npm i --save-dev node@latest && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH```
 - Run `npm install` in console or shell
 - Add prefix and developer name in `config.json`
-- Add TOKEN in `.env` file or for replit user in secrets 
+- Add TOKEN in `.env` file ` or if you are using replit you can do it in in secrets `
 
 # Author 🧑‍💻
 Made By itzQuicksilver#8750
